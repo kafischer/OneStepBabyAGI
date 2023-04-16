@@ -8,7 +8,7 @@ By the time I even got through 10 loc I was already tired, and I didn't want to 
 
 Instead I thought "why not just let GPT4 hallucinate the entire program?"
 
-So, I give you OneStepBabyAGI, which performs the same high level function as BabyAGI but in a single GPT4 call!
+So, I took the docstrings, didn't bother reading anything in the repo and now I present: **OneStepBabyAGI**, which performs the same high level function as BabyAGI but in a single GPT4 call!
 
 ## GPT4 is a linguistic programming machine
 
@@ -45,3 +45,8 @@ Priors: ""
    2. Create a Twitter thread
    3. Engage with users
 ```
+
+Here's a quick screenshot in the Open AI Playground
+
+<img width="1353" alt="image" src="https://user-images.githubusercontent.com/8204988/232272445-72db2877-fad7-42ab-8b64-86ca61cb950d.png">
+
